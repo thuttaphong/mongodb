@@ -1,0 +1,12 @@
+
+   {
+    "private": true,
+    "license": "UNLICENSED",
+    "scripts": {
+      "gen:secret": "sh gen-secret.sh"
+    },
+    "dependencies": {
+      "fastify-secure-session": "2.3.1",
+      "rimraf": "3.0.2"
+    }
+  }

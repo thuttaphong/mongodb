@@ -1,0 +1,13 @@
+**/.env*
+
+mongo/data
+
+redis
+
+node_modules
+
+yarn.lock
+
+package-lock.json
+
+secret-key
